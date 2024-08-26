@@ -1,6 +1,8 @@
 ## CosmoRim Series
 The CosmoRim mod series for Rimworld is designed to be a somewhat goofy take on industrial and spacer technology, inserting a bit of dystopian late stage capitalism into RimWorld in the form of a variety of corporations trying to sell you totally high quality and not at all deadly products through the SkipNet sales platform. Beyond the core module there are also additions for all sorts of different factions along with everything an appropriately bloated faction mod needs, from vault dwelling settlers to mech riding alien cowboys.
 
+For some ideas I'm keeping small micro-modules available instead, such as the Air Generator and Micro Comms Console, things that would have fit into CosmoRim but I felt were good to have on their own, specifically when **I feel it'd be good to have on its own, and only me.**
+
 ### Support
 Like the mods and want to show some support? Anyone is welcome to do so via [Patreon](https://www.patreon.com/neronix17), huge thanks to everyone who has supported me even a little, it's literally prevented me from starving, or running out of utilities more often than I'd like to admit. If you can't afford to don't worry, there's always going to be some free posts if you just follow (completely free) instead.
 
